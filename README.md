@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Desenvovedor full stack-PCD
+- 🔭 Desenvovedor Full-Stack-PCD
 - 🌱 Estudante de ADS
 - 😄 Entre em contato comigo pelo meu Email: guigosandri@gmail.com
 
