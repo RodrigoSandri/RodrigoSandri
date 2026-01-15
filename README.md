@@ -24,8 +24,8 @@
 
 ### 📬 Como me encontrar
 📧 Email: **guigosandri@gmail.com**  
-💼 LinkedIn: *(adicione quando quiser)*  
-🌐 Portfólio: *(em construção)*
+💼 LinkedIn: https://www.linkedin.com/in/rodrigo-sandri-80b226359/ 
+🌐 Portfólio: http://127.0.0.1:5500/index.html
 
 ---
 
