@@ -29,7 +29,7 @@ Sou estudante de tecnologia em constante aprendizado, com foco em desenvolviment
 
 📧 **Email:** guigosandri@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/rodrigo-sandri-80b226359/  
-🌐 **Portfólio:** *(em construção)*  
+🌐 **Portfólio:file:///C:/Users/rodrigo%20sandri/Desktop/Projeto-Portif%C3%B3lio/index.html 
 
 ---
 
