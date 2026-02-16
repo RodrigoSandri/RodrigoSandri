@@ -9,9 +9,9 @@ Sou estudante de tecnologia em constante aprendizado, com foco em desenvolviment
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoSandri&show_icons=true&theme=radical&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RodrigoSandri&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSandri&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoSandri&layout=compact&theme=radical)
 
 
 ---
