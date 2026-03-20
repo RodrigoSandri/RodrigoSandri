@@ -1,4 +1,4 @@
-## Olá! eu sou o Rodrigo Sandri 👋
+## Olá! Eu sou o Rodrigo Sandri 👋
 
 🎯 Desenvolvedor Full-Stack (em formação) | PCD  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
