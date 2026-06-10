@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rodrigo Sandri 👋
 
-🎯 Desenvolvedor Full-Stack (em formação) | PCD  
+🎯 Desenvolvedor Front-End (em formação) | PCD  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 
 Sou estudante de tecnologia em constante aprendizado, com foco em desenvolvimento web e boas práticas de programação. Mesmo sem experiência profissional formal, venho construindo conhecimento por meio de estudos, projetos pessoais e dedicação diária.
